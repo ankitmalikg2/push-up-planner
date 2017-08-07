@@ -1,0 +1,9 @@
+c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\bin\Debug\myExercise.exe.config
+c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\bin\Debug\myExercise.exe
+c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\bin\Debug\myExercise.pdb
+c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\obj\Debug\myExercise.csprojResolveAssemblyReference.cache
+c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\obj\Debug\myExercise.Form1.resources
+c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\obj\Debug\myExercise.Properties.Resources.resources
+c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\obj\Debug\myExercise.csproj.GenerateResource.Cache
+c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\obj\Debug\myExercise.exe
+c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\obj\Debug\myExercise.pdb
