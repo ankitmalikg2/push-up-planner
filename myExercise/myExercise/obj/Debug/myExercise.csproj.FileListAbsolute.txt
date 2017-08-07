@@ -7,3 +7,6 @@ c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\obj\D
 c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\obj\Debug\myExercise.csproj.GenerateResource.Cache
 c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\obj\Debug\myExercise.exe
 c:\users\ankit\documents\visual studio 2015\Projects\myExercise\myExercise\obj\Debug\myExercise.pdb
+C:\Users\ankit\Documents\GitHub\push-up-planner\myExercise\myExercise\bin\Debug\myExercise.exe.config
+C:\Users\ankit\Documents\GitHub\push-up-planner\myExercise\myExercise\obj\Debug\myExercise.exe
+C:\Users\ankit\Documents\GitHub\push-up-planner\myExercise\myExercise\obj\Debug\myExercise.pdb
